@@ -1,0 +1,38 @@
+/* Gmail-style split button for AI Reply */
+.ai-reply-container {
+    display: inline-flex;
+    align-items: center;
+    margin-right: 8px;
+}
+
+.ai-reply-button {
+    background-color: #1a73e8;
+    color: white;
+    border: none;
+    border-radius: 4px 0 0 4px;
+    padding: 6px 12px;
+    font-size: 12px;
+    font-weight: 500;
+    cursor: pointer;
+    height: 32px;
+}
+
+.ai-reply-button:hover {
+    background-color: #1765cc;
+}
+
+.ai-tone-dropdown {
+    background-color: #1a73e8;
+    color: white;
+    border: none;
+    border-left: 1px solid #1765cc;
+    border-radius: 0 4px 4px 0;
+    padding: 6px 8px;
+    font-size: 12px;
+    cursor: pointer;
+    height: 32px;
+}
+
+.ai-tone-dropdown:hover {
+    background-color: #1765cc;
+}
