@@ -1,4 +1,4 @@
-# 📬 Automatic Email Writer Extension
+# 📬 Gmail Copilot - AI Email Assistant
 
 This project is a **Spring Boot-based extension** that automatically replies to emails based on the **content of the received mail**. It uses smart content analysis to generate meaningful and context-aware responses.
 
